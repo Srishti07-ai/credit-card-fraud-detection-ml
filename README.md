@@ -28,10 +28,11 @@ Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 ```bash
 git clone https://github.com/your-username/credit-card-fraud-detection-ml.git
 cd credit-card-fraud-detection-ml
+---
 
 pip install -r requirements.txt
 jupyter notebook
----
+
 
 ## 📈 Results (to be updated)
 - Logistic Regression: Precision __%, Recall __%, ROC-AUC __%
@@ -40,7 +41,6 @@ jupyter notebook
 
 ➡ Best model: XGBoost (ROC-AUC __%)
 
----
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
