@@ -21,8 +21,6 @@ Because the dataset is highly imbalanced, we handle class imbalance and evaluate
 Kaggle: *Credit Card Fraud Detection*  
 Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-> Note: Do not upload the raw dataset to this repo if the license forbids it. Provide a link and loading instructions instead.
-
 ## 🚀 How to Run
 1) Clone the repo
 ```bash
