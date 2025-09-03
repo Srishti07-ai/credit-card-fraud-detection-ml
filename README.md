@@ -31,3 +31,16 @@ cd credit-card-fraud-detection-ml
 
 pip install -r requirements.txt
 jupyter notebook
+---
+
+## 📈 Results (to be updated)
+- Logistic Regression: Precision __%, Recall __%, ROC-AUC __%
+- Random Forest: Precision __%, Recall __%, ROC-AUC __%
+- XGBoost: Precision __%, Recall __%, ROC-AUC __%
+
+➡ Best model: XGBoost (ROC-AUC __%)
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
